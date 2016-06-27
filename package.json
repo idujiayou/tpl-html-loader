@@ -1,7 +1,7 @@
 {
   "name": "tpl-html-loader",
   "version": "1.2.2",
-  "author": "idujiayou",
+  "author": "Evan You",
   "description": "vue template loader for webpack",
   "dependencies": {
     "es6-templates": "^0.2.2",
@@ -17,7 +17,10 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "repository": "git+ssh://git@github.com:idujiayou/tpl-html-loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idujiayou/tpl-html-loader.git"
+  },
   "licenses": [
     {
       "type": "MIT",
