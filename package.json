@@ -17,10 +17,7 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:idujiayou/tpl-html-loader.git"
-  },
+  "repository": "idujiayou/tpl-html-loader",
   "licenses": [
     {
       "type": "MIT",
