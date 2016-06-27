@@ -1,5 +1,5 @@
 {
-  "name": "vue-html-loader-ie8",
+  "name": "tpl-html-loader",
   "version": "1.2.2",
   "author": "Evan You",
   "description": "vue template loader for webpack",
