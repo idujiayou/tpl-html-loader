@@ -1,7 +1,7 @@
 {
   "name": "tpl-html-loader",
   "version": "1.2.2",
-  "author": "Evan You",
+  "author": "idujiayou",
   "description": "vue template loader for webpack",
   "dependencies": {
     "es6-templates": "^0.2.2",
